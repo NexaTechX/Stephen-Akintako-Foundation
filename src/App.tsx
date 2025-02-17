@@ -99,7 +99,7 @@ function App() {
             }`}
           >
             <h1 className="text-5xl md:text-7xl font-bold mb-6">
-              <span className="text-white">Doha Investment</span>
+              <span className="text-white">London Investment MasterClass</span>
               <br />
               <span className="text-white">Masterclass</span>
             </h1>
@@ -111,7 +111,7 @@ function App() {
             </p>
             <div className="flex flex-wrap gap-6 justify-center">
               <a
-                href="https://www.stephenakintayo.com/dim"
+                href="https://app.mailingboss.com/lists/67b35e76967a6/subscribe"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative px-8 py-4 bg-[#0276B1] rounded-full overflow-hidden hover-scale"
@@ -222,7 +222,7 @@ function App() {
                   </div>
 
                   <a
-                    href="https://www.stephenakintayo.com/dim"
+                    href="https://app.mailingboss.com/lists/67b35e76967a6/subscribe"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group relative inline-flex items-center gap-2 px-8 py-4 bg-[#0276B1] rounded-full overflow-hidden hover-scale"
@@ -240,7 +240,7 @@ function App() {
                 className="md:w-1/2 h-50 md:h-auto bg-cover bg-center transform hover:scale-105 transition-transform duration-700"
                 style={{
                   backgroundImage: `url(${drStephen})`,
-                  backgroundPosition: 'center top'
+                  backgroundPosition: "center top",
                 }}
               />
             </div>
